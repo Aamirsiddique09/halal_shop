@@ -1,14 +1,32 @@
 # 
 
 Welcome to the Halal Shop app repository! This Flutter-based shopping app is designed to provide a convenient and delightful shopping experience for users looking for Halal products. Whether you're a developer, designer, or contributor, we're excited to have you on board.
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+-## Contribution
+
+We appreciate contributions from the open-source community. Here's how you can get involved:
+
+- **Reporting Issues**: If you encounter a bug or have a feature request, feel free to [open an issue](https://github.com/your-username/your-project/issues) on GitHub.
+
+- **Contributing Code**: We welcome contributions! To contribute code, please follow our [contribution guidelines](CONTRIBUTING.md).
+
+- **Code Style**: Please adhere to our [coding style guidelines](CODE_OF_CONDUCT.md) when submitting code changes.
+
+- **Testing**: Make sure to write tests for your code changes, and ensure that all tests pass before submitting a pull request.
+
+- **Code of Conduct**: We expect all contributors to adhere to our [code of conduct](CODE_OF_CONDUCT.md).
+
+We want to extend our gratitude to all contributors who help improve this project.
+
+- ## License
+This project is licensed under the [MIT License](LICENSE.md).
 - [Watch the Video](https://www.linkedin.com/posts/aamir-siddique-09954627b_unlocking-the-power-of-flutter-building-activity-7116502955112984577-n-I_?utm_source=share&utm_medium=member_desktop)
+- [![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-blue.svg)](https://flutter.dev/)
+[![Made with Flutter](https://img.shields.io/badge/Made_with-Flutter-blue.svg)](https://flutter.dev/)
+
 
   
 
