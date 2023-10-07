@@ -5,7 +5,7 @@ Welcome to the Halal Shop app repository! This Flutter-based shopping app is des
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
--## Contribution
+# Contribution
 
 We appreciate contributions from the open-source community. Here's how you can get involved:
 
