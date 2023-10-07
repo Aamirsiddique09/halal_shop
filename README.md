@@ -8,15 +8,15 @@ Welcome to the Halal Shop app repository! This Flutter-based shopping app is des
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+- [Watch the Video](https://www.linkedin.com/posts/aamir-siddique-09954627b_unlocking-the-power-of-flutter-building-activity-7116502955112984577-n-I_?utm_source=share&utm_medium=member_desktop)
 
-
+  
 
 
  
 
 
 ## Introduction
- [![Video Thumbnail](thumbnail.jpg)](https://github.com/Aamirsiddique09/halal_shop/assets/122437635/fcf8a2a9-2d55-4a68-81ff-6b6a01f538fb)
 The Halal Shop app is your one-stop destination for finding a wide range of Halal products. We aim to create an intuitive and visually appealing user interface to make shopping for Halal items a breeze. Whether you're looking for groceries, cosmetics, or any other Halal-certified products, our app has got you covered.
 
 ## Features
